@@ -4,8 +4,6 @@ html {
 
 h1{
   font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
   text-shadow: 1px 1px 2px gray;
   border-bottom: solid 3px rgb(115,115,114);
@@ -13,10 +11,10 @@ h1{
 }
 
 body{
-  font-family:"Arial", "Meiryo", sans-serif ;
+  font-family:"Arial", "Meiryo",sans-serif;
   text-align: center;
 }
-#basic{
+#basic >p{
   font-weight: bold;
 }
 .blue{
